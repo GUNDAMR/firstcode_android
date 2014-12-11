@@ -1,2 +1,2 @@
 eclipse.preferences.version=1
-task-tag-projects-already-scanned=C1HelloWorld,C2ActivityTest,C2ActivityLifeCycleTest,C9ServiceTest
+task-tag-projects-already-scanned=C1HelloWorld,C2ActivityTest,C2ActivityLifeCycleTest,C9ServiceTest,C3UIWidgetTest
