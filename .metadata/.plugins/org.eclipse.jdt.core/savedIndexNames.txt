@@ -1,4 +1,0 @@
-INDEX VERSION 1.126+C:\Users\raoxun.rx\firstcode_android\.metadata\.plugins\org.eclipse.jdt.core
-1268011695.index
-741555125.index
-785627040.index

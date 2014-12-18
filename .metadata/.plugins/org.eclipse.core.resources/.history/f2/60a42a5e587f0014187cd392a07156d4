@@ -1,7 +1,0 @@
-package com.raoxun.activitylifecycletest;
-
-import android.app.Activity;
-
-public class NormalActivity extends Activity {
-
-}
