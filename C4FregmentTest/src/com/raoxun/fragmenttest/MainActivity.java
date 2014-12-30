@@ -27,19 +27,19 @@ public class MainActivity extends Activity {
 			@Override
 			public void onClick(View v) {
 				
-				Fragment fragment;
-				if(curFragment == null || curFragment instanceof RightFragment){
-					fragment = new AnotherRightFragment();
-				} else {
-					fragment = new RightFragment();
-				}
-				
-				FragmentManager fragmentManager = MainActivity.this.getFragmentManager();
-				FragmentTransaction transaction = fragmentManager.beginTransaction();
-				transaction.replace(R.id.right_layout, fragment);
-				transaction.addToBackStack(null);
-				transaction.commit();
-				curFragment = fragment;
+//				Fragment fragment;
+//				if(curFragment == null || curFragment instanceof RightFragment){
+//					fragment = new AnotherRightFragment();
+//				} else {
+//					fragment = new RightFragment();
+//				}
+//				
+//				FragmentManager fragmentManager = MainActivity.this.getFragmentManager();
+//				FragmentTransaction transaction = fragmentManager.beginTransaction();
+//				transaction.replace(R.id.right_layout, fragment);
+//				transaction.addToBackStack(null);
+//				transaction.commit();
+//				curFragment = fragment;
 			}
 		});
     }
